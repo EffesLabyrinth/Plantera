@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: a8688202998d7d0489d1d6e48518bbe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8995899159932907337
+    second: JeraminTile_0
+  - first:
+      213: -5739879069390307219
+    second: JeraminTile_1
+  - first:
+      213: -23922282848126874
+    second: JeraminTile_2
+  - first:
+      213: -2364587443033905418
+    second: JeraminTile_3
+  - first:
+      213: 8565852201631139948
+    second: JeraminTile_4
+  - first:
+      213: -3130864434345810830
+    second: JeraminTile_5
+  - first:
+      213: -7423352331734268736
+    second: JeraminTile_6
+  - first:
+      213: 4318235443065711625
+    second: JeraminTile_7
+  - first:
+      213: 6030135110866037718
+    second: JeraminTile_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JeraminTile_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 186
+        width: 68
+        height: 28
+      alignment: 9
+      pivot: {x: 0.12879893, y: 0.36011395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2907af9ad7dc70800000000000000
+      internalID: 8995899159932907337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 175
+        width: 56
+        height: 35
+      alignment: 9
+      pivot: {x: 0.08034134, y: 0.11453596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d608a47c56ad750b0800000000000000
+      internalID: -5739879069390307219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 162
+        width: 36
+        height: 26
+      alignment: 9
+      pivot: {x: 0.12524329, y: 0.18196811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668fe9c7fc20baff0800000000000000
+      internalID: -23922282848126874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 87
+        height: 93
+      alignment: 9
+      pivot: {x: 0.52000916, y: 0.11627427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f66d99af3c4f2fd0800000000000000
+      internalID: -2364587443033905418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 94
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 0.17154622, y: 0.89893466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68c8bc813500e670800000000000000
+      internalID: 8565852201631139948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 114
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.14713432, y: 0.9017246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274e9ee826fec84d0800000000000000
+      internalID: -3130864434345810830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 138
+        width: 127
+        height: 31
+      alignment: 9
+      pivot: {x: 0.037384275, y: 0.65442634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c449688264faf890800000000000000
+      internalID: -7423352331734268736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cee68a1447deb30800000000000000
+      internalID: 4318235443065711625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JeraminTile_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 12
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe7ce2fe75fa350800000000000000
+      internalID: 6030135110866037718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

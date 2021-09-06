@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7af52d0de3885846934b485daca93bf, type: 3}
+  m_Name: Betik
+  m_EditorClassIdentifier: 
+  id: 1
+  idName: _betik
+  gatherableName: Pokok Betik
+  readySprite: {fileID: -4344224735340007485, guid: b82a3807c77ac8f49898fa8022dd15dc,
+    type: 3}
+  waitSprite: {fileID: -4965006972321305900, guid: b82a3807c77ac8f49898fa8022dd15dc,
+    type: 3}
+  gatherMaterials:
+  - material: 2
+    materialDescription: 
+    minDrop: 2
+    maxDrop: 3
+  gatherableResetTimerMin: 25
+  gatherableResetTimerMax: 30
+  description: Buah betik yang belum masak dan batang pokok betik mengandungi getah
+    yang melekit.
+  realSprite: {fileID: 21300000, guid: 258b66c8a3317cd4e83564ab233e3c9f, type: 3}

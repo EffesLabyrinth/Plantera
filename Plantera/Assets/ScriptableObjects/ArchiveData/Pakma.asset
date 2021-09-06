@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96c9aca850dc8314baa5a512a50ba3d6, type: 3}
+  m_Name: Pakma
+  m_EditorClassIdentifier: 
+  plantName: Pokok Pakma
+  plantImage: {fileID: 21300000, guid: 7180fc9b005369c4b9d41e1e8597cf8d, type: 3}
+  description: Pokok Pakma atau bunga Refflessia mengeluarkan bau yang busuk seperti
+    bangkai untuk menghalau musuh.

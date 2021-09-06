@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7af52d0de3885846934b485daca93bf, type: 3}
+  m_Name: Buluh
+  m_EditorClassIdentifier: 
+  id: 2
+  idName: _buluh
+  gatherableName: Pokok Buluh
+  readySprite: {fileID: -7688164583921627626, guid: 67a73069456f03e44a801862b276a440,
+    type: 3}
+  waitSprite: {fileID: 1173672819109715352, guid: 67a73069456f03e44a801862b276a440,
+    type: 3}
+  gatherMaterials:
+  - material: 1
+    materialDescription: 
+    minDrop: 2
+    maxDrop: 3
+  gatherableResetTimerMin: 10
+  gatherableResetTimerMax: 15
+  description: Batang dan daun pokok buluh mempunyai bulu halus yang boleh menyebabkan
+    rasa gatal.
+  realSprite: {fileID: 21300000, guid: efd75147559de0045808e21a9ce408ab, type: 3}

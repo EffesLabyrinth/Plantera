@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 109836c399be53847a0c8bf8f446e1f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1626979955376334638
+    second: BambooTile_0
+  - first:
+      213: -4881477203134450984
+    second: BambooTile_1
+  - first:
+      213: -4536441241012712534
+    second: BambooTile_2
+  - first:
+      213: 7470196824788735781
+    second: BambooTile_3
+  - first:
+      213: -8169324875821622563
+    second: BambooTile_4
+  - first:
+      213: 4467251798153039409
+    second: BambooTile_5
+  - first:
+      213: 2937653373250973718
+    second: BambooTile_6
+  - first:
+      213: 8168237955027076060
+    second: BambooTile_7
+  - first:
+      213: -7286887718305468584
+    second: BambooTile_8
+  - first:
+      213: -1131527658161974069
+    second: BambooTile_9
+  - first:
+      213: 1352809527472876124
+    second: BambooTile_10
+  - first:
+      213: -6257027028982060346
+    second: BambooTile_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BambooTile_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 107
+        width: 123
+        height: 200
+      alignment: 9
+      pivot: {x: 0.7815236, y: 0.089601405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2723e836a1349610800000000000000
+      internalID: 1626979955376334638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 230
+        width: 98
+        height: 84
+      alignment: 9
+      pivot: {x: 0.8402542, y: 0.14884059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2f000d852814cb0800000000000000
+      internalID: -4881477203134450984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 227
+        width: 71
+        height: 63
+      alignment: 9
+      pivot: {x: 0.14776568, y: 0.21500118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4105f9b25b01c0800000000000000
+      internalID: -4536441241012712534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 266
+        width: 125
+        height: 23
+      alignment: 9
+      pivot: {x: 0.10499146, y: 0.4721202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52798cfee687ba760800000000000000
+      internalID: 7470196824788735781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 107
+        width: 65
+        height: 103
+      alignment: 9
+      pivot: {x: 0.2435007, y: 0.09532899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad3e1fe4ab0ae80800000000000000
+      internalID: -8169324875821622563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 147
+        width: 18
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7137502, y: 0.8826801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e032787dddefd30800000000000000
+      internalID: 4467251798153039409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 127
+        width: 21
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5610715, y: 0.8988251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6103ad9bd24a4c820800000000000000
+      internalID: 2937653373250973718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 123
+        width: 22
+        height: 83
+      alignment: 9
+      pivot: {x: 0.44170448, y: 0.8940198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3804694296b5170800000000000000
+      internalID: 8168237955027076060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 130
+        width: 23
+        height: 76
+      alignment: 9
+      pivot: {x: 0.27695897, y: 0.9049988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fee305a36cfda90800000000000000
+      internalID: -7286887718305468584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 143
+        width: 19
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19625212, y: 0.8847487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d9b907910c40f0800000000000000
+      internalID: -1131527658161974069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 24
+        width: 56
+        height: 63
+      alignment: 9
+      pivot: {x: 0.78627175, y: 0.652678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae8c5091526c210800000000000000
+      internalID: 1352809527472876124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTile_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 33
+        width: 64
+        height: 59
+      alignment: 9
+      pivot: {x: 0.13929844, y: 0.23915346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa18b71139a29a0800000000000000
+      internalID: -6257027028982060346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

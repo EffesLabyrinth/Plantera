@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 51405770d333959438bd6b43e481ac89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7906553293603537979
+    second: PapayaTile_0
+  - first:
+      213: 5559165853050364565
+    second: PapayaTile_1
+  - first:
+      213: 6059180733359223128
+    second: PapayaTile_2
+  - first:
+      213: 5186008215818269539
+    second: PapayaTile_3
+  - first:
+      213: -2187960924382019386
+    second: PapayaTile_4
+  - first:
+      213: -6250585752062375201
+    second: PapayaTile_5
+  - first:
+      213: -4379726757752994335
+    second: PapayaTile_6
+  - first:
+      213: -5684119868208820044
+    second: PapayaTile_7
+  - first:
+      213: -1325277846038181856
+    second: PapayaTile_8
+  - first:
+      213: -2789161254579927740
+    second: PapayaTile_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PapayaTile_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 318
+        width: 73
+        height: 47
+      alignment: 9
+      pivot: {x: 0.14008446, y: 0.096266076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf0119ba7464290800000000000000
+      internalID: -7906553293603537979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 260
+        width: 83
+        height: 51
+      alignment: 9
+      pivot: {x: 0.9044835, y: 0.4141385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5926c8eb3ef162d40800000000000000
+      internalID: 5559165853050364565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 254
+        width: 84
+        height: 52
+      alignment: 9
+      pivot: {x: 0.082955316, y: 0.58421147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85174c926c8861450800000000000000
+      internalID: 6059180733359223128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 177
+        width: 84
+        height: 76
+      alignment: 9
+      pivot: {x: 0.90835655, y: 0.86491454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363fa12eef668f740800000000000000
+      internalID: 5186008215818269539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 172
+        width: 78
+        height: 80
+      alignment: 9
+      pivot: {x: 0.0695881, y: 0.8831604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c046cfa12dc2a1e0800000000000000
+      internalID: -2187960924382019386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 103
+        width: 115
+        height: 56
+      alignment: 9
+      pivot: {x: 0.9378971, y: 0.6824575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda443220657149a0800000000000000
+      internalID: -6250585752062375201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 125
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50cd6f7b51833c0800000000000000
+      internalID: -4379726757752994335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 128
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05caa7813fd11b0800000000000000
+      internalID: -5684119868208820044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 49
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5148946, y: 0.08142202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028033612daab9de0800000000000000
+      internalID: -1325277846038181856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PapayaTile_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 34
+        width: 37
+        height: 42
+      alignment: 9
+      pivot: {x: 0.16467327, y: 0.86491483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4450b77dd98ea49d0800000000000000
+      internalID: -2789161254579927740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

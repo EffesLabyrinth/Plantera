@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7af52d0de3885846934b485daca93bf, type: 3}
+  m_Name: Jeramin
+  m_EditorClassIdentifier: 
+  id: 5
+  idName: _jeremin
+  gatherableName: Pokok Jeremin
+  readySprite: {fileID: 8457329266020218173, guid: 14d743b988b735647855774db95b04ea,
+    type: 3}
+  waitSprite: {fileID: 6998985742656773233, guid: 14d743b988b735647855774db95b04ea,
+    type: 3}
+  gatherMaterials:
+  - material: 4
+    materialDescription: 
+    minDrop: 5
+    maxDrop: 8
+  gatherableResetTimerMin: 20
+  gatherableResetTimerMax: 25
+  description: Pokok jeremin mengeluarkan bau yang tidak disukai oleh nyamuk. Oleh
+    itu, pokok jeremin juga dikenali sebagai pokok halau nyamuk.
+  realSprite: {fileID: 21300000, guid: 3450db2903a7fb046893529a2d111658, type: 3}

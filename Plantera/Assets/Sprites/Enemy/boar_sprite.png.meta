@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: e0f8f34af09001147abfa1f5bedb80ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5519856888582927056
+    second: boar_sprite_0
+  - first:
+      213: 5575543553713411791
+    second: boar_sprite_1
+  - first:
+      213: 1624453286442108346
+    second: boar_sprite_2
+  - first:
+      213: -662161290271712568
+    second: boar_sprite_3
+  - first:
+      213: 7431351190090963508
+    second: boar_sprite_4
+  - first:
+      213: -2925915726835681365
+    second: boar_sprite_5
+  - first:
+      213: 6774547573986724028
+    second: boar_sprite_6
+  - first:
+      213: -7232642894577081763
+    second: boar_sprite_7
+  - first:
+      213: 4232688035683720036
+    second: boar_sprite_8
+  - first:
+      213: 5074929801175885431
+    second: boar_sprite_9
+  - first:
+      213: 7014928670031492670
+    second: boar_sprite_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boar_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 366
+        width: 290
+        height: 122
+      alignment: 9
+      pivot: {x: 0.56919116, y: 0.3437525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d8501c7678563b0800000000000000
+      internalID: -5519856888582927056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 401
+        width: 99
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52026796, y: 0.16965392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc69ec4525f406d40800000000000000
+      internalID: 5575543553713411791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 412
+        width: 103
+        height: 35
+      alignment: 9
+      pivot: {x: 0.14934118, y: 0.7006548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5099448a73b8610800000000000000
+      internalID: 1624453286442108346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 180
+        width: 68
+        height: 54
+      alignment: 9
+      pivot: {x: 0.79508066, y: 0.70437086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca175590d78fc6f0800000000000000
+      internalID: -662161290271712568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 199
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: 0.8503493, y: 0.6404587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a5c8ec886712760800000000000000
+      internalID: 7431351190090963508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 146
+        width: 324
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7fa3b062f0567d0800000000000000
+      internalID: -2925915726835681365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 182
+        width: 297
+        height: 188
+      alignment: 9
+      pivot: {x: 0.09463696, y: 0.38793224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8867d1027040e50800000000000000
+      internalID: 6774547573986724028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 57
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6408105, y: 0.8745556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ea798b9d70ab90800000000000000
+      internalID: -7232642894577081763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 41
+        width: 42
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5238873, y: 0.8298437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b59fbb7578dba30800000000000000
+      internalID: 4232688035683720036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 41
+        width: 57
+        height: 69
+      alignment: 9
+      pivot: {x: 0.41199374, y: 0.84896505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e12b14c5cd6640800000000000000
+      internalID: 5074929801175885431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 33
+        width: 38
+        height: 62
+      alignment: 9
+      pivot: {x: 0.42079404, y: 0.88836414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363eed65780a5160800000000000000
+      internalID: 7014928670031492670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
